@@ -7,6 +7,11 @@
 		<p>This is an about us page</p>	
 	
 	</div>
+	/* sample comment
+
+
+	*/
+
 
 
 </div>
